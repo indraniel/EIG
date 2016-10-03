@@ -1,4 +1,4 @@
-#!/usr/local/bin/perl  -w 
+#!/usr/bin/perl  -w
 
 ### ploteig -i eigfile -p pops -c a:b [-t title] [-s stem] [-o outfile] [-x] [-k]  [-y] [-z sep] -r colorstring -m xmul -n ymul 
 use Getopt::Std ;
